@@ -43,3 +43,6 @@ class App extends Component {
 }
 
 export default App
+
+
+// nb : des states pourraient être utilisés à la place de cibler et textContent
